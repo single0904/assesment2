@@ -1,0 +1,104 @@
+#body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    width: 1920px;
+
+}
+h1{
+    padding-right: 150px;
+    font-size: 60px;
+    width: 300px;
+    top: 10%;
+    left: 50%;
+    transform: translate(-25%,-50%);
+    position: absolute;
+    color: orange;
+}
+h2{
+    font-size: 75px;
+    width: 300px;
+    top: 27%;
+    left: 45%;
+    transform: translate(-25%,-50%);
+    position: absolute;
+    color: grey
+}
+
+h3{
+    font-size: 17px;
+    width: 400px;
+    top: 50%;
+    left: 45%;
+    padding-left: 35px;
+    transform: translate(-25%,-50%);
+    position: absolute;
+    color: #dc3545
+
+}
+
+.input-group{
+    height: 40px;
+    width: fit-content;
+    padding-left: 5px;
+    top: 60%;
+    left: 40%;
+    position: absolute;
+    max-width: 500px; 
+    .btn{
+        height: 40px;
+        width: 50px;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        background-color: white;
+        border-radius: 1px;
+        border-color: #dc3545;
+        font-size: 16px;
+        
+    }
+    .form-control{
+        height: 36px;
+        width: 300px;
+        outline: none;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-color: #dc3545;
+        font-size: 16px;
+    }
+}
+
+.card{
+    height: 300px;
+    width: 300px;
+    top: 90%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-25%);
+}
+.line{
+    height: 1px;
+    width: 28%;
+    margin-left: 20px;
+    background-color: lightgrey;
+    top: 85%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%);
+}
+.btn2{
+    height: 40px;
+    width: 350px;
+    margin-left: 30px;
+    top: 70%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%);
+    background-color: orange;
+    border-color: orange;
+    border-radius: 20px;
+    color: white;
+    font-size: 16px;
+    outline: none;
+}

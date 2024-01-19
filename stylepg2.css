@@ -1,0 +1,154 @@
+#body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    width: 1920px;
+
+}
+h1{
+    font-size: 50px;
+    width: 300px;
+    top: 5%;
+    left: 50%;
+    transform: translate(-25%,-50%);
+    position: absolute;
+    color: orange;
+}
+h2{
+    font-size: 40px;
+    width: 300px;
+    top: 15%;
+    left: 45%;
+    transform: translate(-25%,-50%);
+    position: absolute;
+    color: grey
+}
+
+h3{
+    font-size: 16px;
+    width: 400px;
+    top: 23%;
+    left: 45%;
+    padding-left: 35px;
+    transform: translate(-25%,-50%);
+    position: absolute;
+    font-style: italic;
+    color: grey;
+
+}
+.mb-3{
+    max-height: 500px;
+    max-width: 500px;
+    padding-left: 5px;
+    top: 30%;
+    left: 40%;
+    position: absolute;
+    max-width: 500px; 
+    color:grey;
+    .form-label1{
+        font-size: 20px;
+        color: grey;
+    }
+    .form-control1{
+        width: 300px;
+        height:30px;
+        border-radius: 5px;
+    }
+    .form-text1{
+        color:red;
+        font-size: 14px;
+    }
+
+}
+.mb-4{
+    max-height: 500px;
+    max-width: 500px;
+    padding-left: 5px;
+    top: 60%;
+    left: 40%;
+    position: absolute;
+    max-width: 500px; 
+    color:grey;
+    .form-label2{
+        font-size: 20px;
+        color: grey;
+    }
+    .form-control2{
+        width: 300px;
+        height:30px;
+        border-radius: 5px;
+    }
+    .form-text2{
+        color:red;
+        font-size: 14px;
+    }
+
+}
+
+.mb-5{
+    max-height: 500px;
+    max-width: 500px;
+    padding-left: 5px;
+    top: 45%;
+    left: 40%;
+    position: absolute;
+    max-width: 500px; 
+    color:grey;
+    .form-label3{
+        font-size: 20px;
+        color: grey;
+    }
+    .form-text3{
+        color:red;
+        font-size: 14px;
+    }
+    .form-controlD{
+        width: 75px;
+        height:30px;
+        border-radius: 5px;
+    }
+    .form-controlM{
+        width: 75px;
+        height:30px;
+        border-radius: 5px;
+    }
+    .form-controlY{
+        width: 130px;
+        height:30px;
+        border-radius: 5px;
+    }
+}
+
+.card{
+    height: 300px;
+    width: 300px;
+    top: 90%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-25%);
+}
+.line{
+    height: 1px;
+    width: 28%;
+    margin-left: 20px;
+    background-color: lightgrey;
+    top: 85%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%);
+}
+.btn2{
+    height: 40px;
+    width: 310px;
+    margin-left: 10px;
+    top: 75%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%);
+    background-color: orange;
+    border-color: orange;
+    border-radius: 20px;
+    color: white;
+    font-size: 16px;
+    outline: none;
+}
